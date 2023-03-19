@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PHIKN1GHT)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PHIKN1GHT&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **PHIKN1GHT/PHIKN1GHT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
